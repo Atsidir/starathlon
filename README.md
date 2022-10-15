@@ -1,1 +1,1 @@
-# starathlon
+# StarAthlon
